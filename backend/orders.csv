@@ -1,0 +1,981 @@
+order_id,user_id,category,total_price,payment_method,order_date,status,shipping_address
+1,697,Electronics|Mobiles&Accessories|MobileAccessories|Mounts|HandlebarMounts,896.05,Net Banking,2023/7/5,delivered,"296 Vaughn Road Suite 875
+West Reneeside, MP 80629"
+2,463,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|HalogenHeaters",278.66,Net Banking,2024/8/10,delivered,"1608 Sherry Stream
+West Williambury, AZ 64676"
+3,296,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MiceAccessories|DustCovers",159.59,Net Banking,2024/8/30,delivered,"9392 Derek Land Apt. 136
+Josemouth, IL 88201"
+4,247,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|ImmersionRods",540.74,Net Banking,2023/7/16,delivered,"05303 Stone Mission
+North Katrinahaven, MS 78779"
+5,529,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",569.91,Debit Card,2024/4/20,cancelled,"624 Wayne Spring Apt. 821
+West Jocelyn, VT 19254"
+6,582,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|GraphicTablets",496.37,UPI,2024/11/2,delivered,"96908 Morris Ports Suite 374
+Crawfordton, AZ 89549"
+7,888,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,912.26,UPI,2023/10/23,delivered,"909 Rebecca Crossing
+Christinafurt, LA 64931"
+8,70,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",841.81,Credit Card,2024/3/26,delivered,"8848 Melissa Square
+Jacobton, CT 73615"
+9,416,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,995.32,UPI,2023/6/14,delivered,"8495 Maria Mount
+West Michaelmouth, OR 28987"
+10,510,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",424.02,Credit Card,2023/11/13,delivered,"887 Micheal Bridge Apt. 382
+New Catherine, FL 08203"
+11,788,Home&Kitchen|HomeStorage&Organization|LaundryOrganization|LaundryBaskets,966.47,UPI,2024/9/12,delivered,"960 Stephens Brook
+New Candice, MP 62560"
+12,934,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|Kettle&ToasterSets,736.26,UPI,2024/10/18,delivered,"86816 Barbara Landing
+Davisfurt, VA 30049"
+13,610,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,952.77,Credit Card,2025/1/26,delivered,"830 Robert Road
+South Scottton, MS 71574"
+14,143,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|StorageWaterHeaters",178.2,Net Banking,2023/3/14,delivered,"00321 Douglas Square Suite 082
+South Daveton, NH 93771"
+15,665,Electronics|Cameras&Photography|Accessories|Tripods&Monopods|Tabletop&TravelTripods,168.46,UPI,2023/7/12,delivered,"8210 Holland Summit
+Kochport, VI 11086"
+16,875,"Home&Kitchen|Heating,Cooling&AirQuality|Fans|CeilingFans",168.5,PayPal,2025/2/19,delivered,"633 Tapia Burgs
+West Melissaview, DE 40460"
+17,333,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|InstantWaterHeaters",60.72,Net Banking,2023/6/4,delivered,"88142 Amanda Path
+South Eric, OK 11629"
+18,310,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,713.36,UPI,2024/4/19,delivered,"3299 Christy Light
+South Gregorybury, WA 05774"
+19,746,Home&Kitchen|Kitchen&HomeAppliances|WaterPurifiers&Accessories|WaterFilters&Purifiers,865.46,Debit Card,2024/7/18,delivered,"50519 Cathy Groves
+Hollyhaven, AK 64772"
+20,265,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Juicers,986.77,PayPal,2023/5/8,delivered,"7739 Blackburn Shores
+New Nicholasfort, MA 76078"
+21,778,Electronics|Mobiles&Accessories|MobileAccessories|StylusPens,177.57,Net Banking,2024/1/17,delivered,"206 Leon Freeway
+Gregoryfort, FL 37562"
+22,950,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,326.17,PayPal,2024/1/10,delivered,"53560 Navarro Stream
+South Kelseyland, NC 58886"
+23,269,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|BasicMobiles,22.39,UPI,2023/6/21,delivered,"257 Bishop Corners
+New Michael, OK 25644"
+24,927,Electronics|Mobiles&Accessories|MobileAccessories|Chargers|WallChargers,616.43,PayPal,2023/3/22,delivered,"556 Robert Fall Suite 147
+Vegaport, UT 12764"
+25,951,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",658.52,Credit Card,2024/2/8,delivered,"984 Lamb Locks
+Yolandastad, FM 03955"
+26,287,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|EggBoilers,8.52,UPI,2025/1/2,delivered,"8938 Bryant Prairie Apt. 265
+Lake Carolyn, WA 80593"
+27,655,"Electronics|Headphones,Earbuds&Accessories|Adapters",550.32,PayPal,2025/2/5,delivered,"64477 Gonzalez Fort Suite 202
+South Jamesberg, NJ 81602"
+28,286,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MouseSets",520.1,PayPal,2023/10/25,delivered,"683 Jake Club
+Brittanyview, RI 31828"
+29,483,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice",677.24,PayPal,2023/10/26,delivered,"2764 Patrick Circle
+North Marymouth, ID 53294"
+30,544,Electronics|GeneralPurposeBatteries&BatteryChargers|RechargeableBatteries,135.17,UPI,2024/5/13,delivered,"91549 Brown Land Suite 873
+East Marcia, RI 03805"
+31,941,Electronics|HomeAudio|Speakers|TowerSpeakers,961.24,Net Banking,2024/9/14,delivered,"939 Margaret Street
+Crawfordberg, VI 69400"
+32,440,Electronics|Mobiles&Accessories|MobileAccessories|Stands,468.11,UPI,2024/5/27,delivered,"531 Mike Junction Suite 816
+Charlesmouth, PA 79603"
+33,358,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|GraphicTablets",927.87,Credit Card,2024/4/1,delivered,"089 Sweeney Trail
+West Jenniferside, FM 18286"
+34,174,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,239.7,UPI,2024/8/8,delivered,"34010 Heidi Plaza Apt. 954
+Lake Regina, PA 49508"
+35,203,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",850.6,UPI,2024/11/20,delivered,"50805 Richardson Camp
+Patriciastad, ND 85580"
+36,409,Electronics|Cameras&Photography|SecurityCameras|DomeCameras,419.41,Net Banking,2023/5/28,delivered,"0985 Garcia Drive Apt. 261
+Lake Evelyn, NM 15671"
+37,598,Computers&Accessories|Accessories&Peripherals|USBGadgets|Lamps,598.5,Credit Card,2023/5/18,delivered,"4655 Ryan Light
+East Tonyafurt, NE 71693"
+38,767,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MiniFoodProcessors&Choppers,468.61,Credit Card,2024/9/2,delivered,"Unit 8996 Box 1659
+DPO AA 31028"
+39,830,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|JuicerMixerGrinders,600.57,Net Banking,2023/7/22,delivered,"81360 Li Extension
+Reginaldchester, AR 05387"
+40,441,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",217.19,UPI,2024/8/17,delivered,"79233 Wright Gateway Apt. 799
+Ariastown, HI 76257"
+41,956,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|CableConnectionProtectors,995.87,Credit Card,2023/10/17,delivered,"9590 Harris Cove Suite 423
+Michaelmouth, HI 16866"
+42,394,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Pens,Pencils&WritingSupplies|Pens&Refills|RetractableBallpointPens",653.15,Debit Card,2024/4/19,delivered,"1113 King Passage
+New Christinaberg, NV 01512"
+43,819,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,838.87,PayPal,2023/7/30,delivered,"57232 Justin Lake Apt. 548
+Lake Adam, GU 45687"
+44,892,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",455.18,Net Banking,2023/8/29,delivered,"7810 Trevor Knolls
+Lake Michael, AL 99593"
+45,793,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,78.57,Credit Card,2025/1/13,delivered,"0222 Ramos Vista Apt. 827
+Davidland, TX 50576"
+46,229,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MouseSets",845.59,UPI,2024/8/25,delivered,"005 Wesley Camp Apt. 678
+Port Timothyview, MA 84539"
+47,863,"Home&Kitchen|Heating,Cooling&AirQuality|Parts&Accessories|FanParts&Accessories",982.51,Credit Card,2023/10/9,delivered,"USCGC Bentley
+FPO AP 61212"
+48,226,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|SandwichMakers,530.98,Net Banking,2023/9/1,delivered,"02681 David Squares Suite 342
+Murraystad, LA 64895"
+49,224,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice",939.31,Net Banking,2024/1/31,delivered,"846 Amy Islands
+North Ruthborough, NC 86230"
+50,956,"Computers&Accessories|Printers,Inks&Accessories|Printers",210.02,PayPal,2024/5/7,shipped,"058 Burke Common Suite 639
+West Randy, DE 46269"
+51,860,Computers&Accessories|Accessories&Peripherals|USBGadgets|Lamps,191.17,Credit Card,2024/3/1,delivered,"838 Jordan Mountains
+Katelyntown, NJ 35409"
+52,191,Electronics|HomeAudio|Accessories|Adapters,213.53,Credit Card,2024/2/15,delivered,"754 Yvette Land
+South Natashafort, PA 08804"
+53,186,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|InstantWaterHeaters",813.44,PayPal,2024/5/17,delivered,"7421 Camacho Meadow Apt. 105
+West Wayneview, AL 45753"
+54,992,Computers&Accessories|Monitors,242.75,Credit Card,2024/11/16,delivered,"10126 Jessica Mills Suite 178
+Wendystad, WY 50730"
+55,953,Electronics|WearableTechnology|SmartWatches,324.52,Credit Card,2023/6/3,delivered,"75695 Buckley Via
+North Codyburgh, NY 09963"
+56,843,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MiceAccessories|MousePads",609.55,PayPal,2024/11/12,delivered,"1230 Sara Loop
+Edwardsfort, ME 39941"
+57,419,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters",25.83,Net Banking,2024/8/11,delivered,"247 Vega Run Apt. 415
+Chaseborough, DE 49818"
+58,739,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,869.51,PayPal,2023/9/9,delivered,"150 Welch Hollow
+South Amanda, NH 65610"
+59,738,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,699.59,Net Banking,2024/10/24,delivered,"4671 Jason Ferry
+Tammyhaven, AR 48160"
+60,219,Electronics|GeneralPurposeBatteries&BatteryChargers,328.85,UPI,2024/10/5,delivered,"872 Julia Fields Suite 683
+Derrickside, SC 57203"
+61,76,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,295.44,UPI,2024/12/6,delivered,"3392 Garcia Row Suite 755
+Lozanohaven, MI 59347"
+62,165,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|JuicerMixerGrinders,577.42,Debit Card,2023/12/11,delivered,"836 Simmons Springs
+North James, WY 26388"
+63,697,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,385.81,UPI,2024/10/17,shipped,"9388 Jason Pines Apt. 931
+New Victoria, HI 07126"
+64,904,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,663.92,PayPal,2023/4/23,delivered,"23670 Juan Crest Apt. 130
+West Ronaldmouth, PW 49463"
+65,854,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,416.9,PayPal,2023/10/27,delivered,"052 Hall Hollow Suite 782
+Lake Meghanstad, VT 15245"
+66,657,Home&Kitchen|HomeStorage&Organization|LaundryOrganization|LaundryBaskets,486.04,UPI,2024/7/24,delivered,"46327 Stone Locks
+Sarahchester, ME 81180"
+67,922,Computers&Accessories|NetworkingDevices|Routers,348.53,PayPal,2024/10/5,delivered,"4221 Eric Meadow
+Port Tamaraview, GU 27723"
+68,776,"Computers&Accessories|Printers,Inks&Accessories|Inks,Toners&Cartridges|InkjetInkCartridges",624.11,PayPal,2023/7/15,delivered,"61839 Woods Views
+Micheletown, FM 19799"
+69,199,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,833.06,PayPal,2023/3/13,delivered,"05516 Brown Ford Apt. 706
+Cowanborough, NJ 55845"
+70,712,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",876.51,Credit Card,2025/1/3,delivered,"43045 Jonathan Squares Apt. 287
+Marksview, TX 08505"
+71,835,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MouseSets",487.04,PayPal,2023/7/18,delivered,"258 Jimmy Roads
+East Justin, UT 76554"
+72,115,Electronics|Mobiles&Accessories|MobileAccessories|Chargers|WallChargers,335.83,UPI,2024/8/31,shipped,"13963 Daniel Port Suite 333
+Rushport, AR 61912"
+73,539,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",297.63,UPI,2023/7/4,delivered,"79013 Carrie Club
+North Paulview, KS 50390"
+74,767,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,335.51,PayPal,2023/8/16,delivered,"14649 Samantha Well
+Lake Robinville, GA 46492"
+75,968,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|InductionCooktop,194.08,PayPal,2023/10/23,delivered,"024 Jacqueline Lock
+Lynchton, MN 61443"
+76,644,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,60.56,UPI,2023/4/21,delivered,"52103 Howell Circles Suite 792
+Gilesport, NC 22819"
+77,326,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",417.13,Net Banking,2024/10/29,delivered,"442 Young Pike
+West John, NH 23871"
+78,910,Computers&Accessories|NetworkingDevices|Routers,815.28,PayPal,2024/1/8,delivered,"3427 Bianca Spring Suite 056
+Santiagoport, WA 89599"
+79,30,Home&Kitchen|HomeStorage&Organization|LaundryOrganization|LaundryBaskets,442.54,Debit Card,2024/4/14,delivered,"PSC 5328, Box 1978
+APO AP 18666"
+80,230,Electronics|Mobiles&Accessories|MobileAccessories|Cables&Adapters|OTGAdapters,130.54,UPI,2024/8/2,delivered,"282 Timothy Curve Suite 683
+New Johnhaven, MH 68263"
+81,315,"Home&Kitchen|Kitchen&HomeAppliances|Coffee,Tea&Espresso|DripCoffeeMachines",914.97,Net Banking,2024/3/10,delivered,"95850 Erickson Orchard Suite 538
+East Christopher, NY 32950"
+82,635,Electronics|Accessories|MemoryCards|MicroSD,275,Credit Card,2023/12/2,delivered,"607 Evans Corner Apt. 178
+Choimouth, IN 40908"
+83,558,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|EggBoilers,844.96,PayPal,2025/1/30,delivered,"253 Margaret Roads Apt. 264
+South Cory, RI 06056"
+84,144,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|GraphicTablets",306.98,UPI,2024/1/31,delivered,"243 William Path
+West Rachelshire, MD 47471"
+85,571,"Electronics|HomeTheater,TV&Video|Accessories|Cables|HDMICables",354.53,Net Banking,2023/10/21,delivered,"659 Heather Locks
+West Craig, OH 42131"
+86,879,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",713.35,Credit Card,2023/6/1,delivered,"3642 Stephen Forges
+East Rogermouth, SC 84502"
+87,944,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",752.05,UPI,2024/4/15,delivered,"52870 Curtis Walk
+Moodyton, VT 66236"
+88,574,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Pens,Pencils&WritingSupplies|Pens&Refills|GelInkRollerballPens",717.94,PayPal,2024/4/19,delivered,"156 Jesse Road Apt. 517
+New Jamie, RI 19006"
+89,630,Electronics|Mobiles&Accessories|MobileAccessories|Mounts|HandlebarMounts,60.83,PayPal,2024/2/7,delivered,"1339 Katrina Rapid Apt. 213
+Thomasfort, NE 16773"
+90,109,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",163.48,Debit Card,2023/12/1,delivered,"9850 Tamara Unions
+Nelsonville, OR 40096"
+91,68,Computers&Accessories|Accessories&Peripherals|Audio&VideoAccessories|PCMicrophones,449.8,PayPal,2023/9/6,delivered,"269 Jose Ranch
+North Gina, MA 89641"
+92,345,"Electronics|HomeTheater,TV&Video|Accessories|Cables|HDMICables",547.53,UPI,2024/6/9,delivered,"7950 Barker Throughway Suite 042
+West Samantha, WV 72529"
+93,884,"Home&Kitchen|Kitchen&HomeAppliances|Coffee,Tea&Espresso|DripCoffeeMachines",75.37,UPI,2024/12/18,delivered,"USCGC Hartman
+FPO AE 16006"
+94,496,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",56.63,UPI,2023/6/15,delivered,"71951 Wilson Greens Suite 695
+Port Anthonyport, ID 63244"
+95,370,Computers&Accessories|Accessories&Peripherals|TabletAccessories|ScreenProtectors,579.64,UPI,2024/2/23,delivered,"96579 Jones Mission
+New Monicahaven, NJ 50740"
+96,756,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,617.9,Net Banking,2024/12/3,delivered,"14771 Cole Turnpike Suite 231
+Lake Randyfurt, NC 11876"
+97,859,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Pens,Pencils&WritingSupplies|Pens&Refills|RetractableBallpointPens",659.81,PayPal,2024/4/5,delivered,"16100 Patrick Pine Apt. 087
+Lindseychester, IL 66197"
+98,636,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",46.98,PayPal,2023/9/21,delivered,"192 Carter Street Apt. 781
+Lake Wendy, LA 73928"
+99,352,"Electronics|HomeTheater,TV&Video|Accessories|Cables|HDMICables",149.81,Credit Card,2024/6/11,delivered,"6526 Robinson Highway Suite 459
+North Michele, UT 18147"
+100,12,"Electronics|Mobiles&Accessories|MobileAccessories|Maintenance,Upkeep&Repairs|ScreenProtectors",594.83,Debit Card,2023/9/22,delivered,"022 Alexandria Cove Apt. 012
+Gonzalezland, MN 66720"
+101,407,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",642.4,Net Banking,2023/8/7,delivered,"5660 Andrew Falls Suite 997
+Maldonadoburgh, AS 53443"
+102,143,"Electronics|HomeTheater,TV&Video|Accessories|3DGlasses",527.21,Debit Card,2023/9/3,delivered,"94206 Richard Plains
+New Robertmouth, KY 89651"
+103,291,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MiceAccessories|DustCovers",868,Net Banking,2024/7/19,delivered,"944 Kristen Fall Suite 670
+Lake Joseph, GU 02283"
+104,138,Computers&Accessories|Accessories&Peripherals|USBHubs,47.51,PayPal,2024/12/17,shipped,"967 Freeman Trail
+East Brian, KY 58948"
+105,171,Electronics|Mobiles&Accessories|MobileAccessories|Chargers|WallChargers,764.68,Net Banking,2024/2/28,delivered,"551 Caroline Mill Apt. 394
+New Christopherchester, HI 22770"
+106,881,Home&Kitchen|Kitchen&HomeAppliances|SewingMachines&Accessories|Sewing&EmbroideryMachines,568.49,Credit Card,2024/8/16,delivered,"0003 Sherri Square
+East Jamesville, MH 71700"
+107,274,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,502.94,PayPal,2024/8/26,delivered,"0454 Denise Lane Apt. 167
+Justinchester, OK 56282"
+108,941,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,512.88,Net Banking,2024/12/11,delivered,"1098 Taylor Drive Apt. 765
+Zacharyfurt, VI 61613"
+109,315,"Electronics|Mobiles&Accessories|MobileAccessories|Maintenance,Upkeep&Repairs|ScreenProtectors",668.04,UPI,2024/5/29,delivered,"97094 Eric Path Apt. 999
+East Benjamin, GA 12076"
+110,462,Electronics|WearableTechnology|SmartWatches,934.43,Debit Card,2024/8/22,delivered,"4263 Best Ramp
+Jessicafurt, MS 55325"
+111,774,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",583.06,PayPal,2024/5/10,delivered,"168 Daniel Corner Suite 976
+North Richardside, MS 47015"
+112,224,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,315.54,Credit Card,2024/10/16,delivered,"187 Tyler Drive
+New Richardton, MI 06569"
+113,511,Computers&Accessories|NetworkingDevices|NetworkAdapters|WirelessUSBAdapters,526.88,Credit Card,2024/7/8,delivered,"806 Miller Vista
+New Caitlin, IA 36799"
+114,17,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|Bags&Sleeves|LaptopSleeves&Slipcases,285.51,Net Banking,2023/8/3,delivered,"0420 Monica Ferry Suite 864
+South Daniel, ME 05184"
+115,976,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|LintShavers",292.25,UPI,2023/9/6,delivered,"017 Matthew Plaza
+Emilyfurt, VA 18500"
+116,357,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",37.18,Net Banking,2023/5/8,delivered,"462 Danielle Meadow
+East Kathleenfurt, SC 84991"
+117,383,Electronics|WearableTechnology|SmartWatches,429.85,PayPal,2024/3/29,delivered,"5952 Jacob Fall
+East Caitlyn, ND 67088"
+118,20,Computers&Accessories|NetworkingDevices|NetworkAdapters|WirelessUSBAdapters,997.84,PayPal,2024/12/6,delivered,"5671 Harris Knoll Suite 939
+North Carrie, CO 01968"
+119,178,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",370.72,Credit Card,2023/7/11,delivered,"30643 Robert Pike Apt. 130
+Knapptown, MO 68476"
+120,61,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,171.43,UPI,2023/4/21,delivered,"4168 Kyle Ranch
+Port Melanie, IA 98413"
+121,601,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Rice&PastaCookers,788.31,PayPal,2023/5/13,delivered,"781 Brandi Lake Apt. 449
+Morganstad, RI 28483"
+122,907,Computers&Accessories|Accessories&Peripherals|PCGamingPeripherals|Gamepads,764.88,Credit Card,2023/10/4,delivered,"36811 Rios Bypass
+New Robertshire, ID 83525"
+123,366,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|InductionCooktop,668.76,Credit Card,2023/3/30,delivered,"5073 Young Mission Suite 018
+Simsbury, AR 40430"
+124,766,Computers&Accessories|NetworkingDevices|NetworkAdapters|WirelessUSBAdapters,673.3,PayPal,2024/12/16,delivered,"96757 Roth Junctions Suite 863
+Lake Tamarafort, IL 04149"
+125,324,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",738.38,Debit Card,2023/10/27,delivered,"80064 Thomas Parks Suite 742
+Chadport, IL 91964"
+126,646,"Electronics|HomeTheater,TV&Video|Accessories|Cables|OpticalCables",405.71,Credit Card,2024/1/22,delivered,"66896 Troy Alley Apt. 085
+Sueburgh, WI 38854"
+127,152,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|Kettle&ToasterSets,381.45,Net Banking,2024/2/18,delivered,"724 Hayes Gardens
+Osbornestad, NJ 15720"
+128,700,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|Bags&Sleeves|LaptopSleeves&Slipcases,34.37,Debit Card,2023/8/23,delivered,"4583 Emily Greens Suite 959
+Adkinsshire, TX 75482"
+129,350,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",814.14,Debit Card,2023/6/2,delivered,"3165 Brittany Terrace
+Krystalfurt, IA 01528"
+130,136,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,537.3,UPI,2023/7/1,delivered,"94647 Amanda Underpass Apt. 667
+New Christinaville, WA 26737"
+131,47,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Notebooks,WritingPads&Diaries|CompositionNotebooks",603.75,Debit Card,2023/7/13,delivered,"460 Alvarez Oval Suite 899
+Emilymouth, KY 75113"
+132,508,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",85.01,PayPal,2024/3/7,delivered,"34412 Hall Locks Apt. 749
+Jeffreymouth, HI 16635"
+133,550,Electronics|WearableTechnology|SmartWatches,168.05,PayPal,2023/9/5,delivered,"7941 Morgan Center
+North Brenda, MH 36558"
+134,914,Electronics|WearableTechnology|SmartWatches,977.48,UPI,2024/12/9,delivered,"27344 Deborah Point
+Maloneshire, VT 17431"
+135,226,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MiceAccessories|MousePads",954.43,Credit Card,2024/3/14,delivered,"7641 David Way
+New James, NV 70467"
+136,314,Computers&Accessories|Accessories&Peripherals|HardDiskBags,562,Debit Card,2023/5/17,delivered,"83487 Daniel Mountains
+Velasquezton, KY 25339"
+137,332,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,96.88,Debit Card,2024/9/20,delivered,"1245 Moore Pine Suite 529
+Bradleymouth, MD 93505"
+138,477,Home&Kitchen|HomeStorage&Organization|LaundryOrganization|LaundryBags,961.44,Credit Card,2024/11/18,delivered,"858 Cody Mountain
+West Marie, ME 60935"
+139,25,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,744.2,Net Banking,2024/6/29,delivered,"PSC 9361, Box 4090
+APO AE 30951"
+140,748,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|StorageWaterHeaters",423.11,Credit Card,2024/3/28,delivered,"PSC 9105, Box 5877
+APO AP 36345"
+141,363,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|InstantWaterHeaters",836.03,Net Banking,2025/1/18,delivered,"818 Mueller Via Suite 832
+West Andrewburgh, NJ 65402"
+142,385,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,386.79,Net Banking,2023/11/18,delivered,"6787 Kimberly Heights
+South David, KY 80205"
+143,240,Electronics|GeneralPurposeBatteries&BatteryChargers,424.98,Debit Card,2023/12/5,delivered,"28096 Floyd Viaduct
+Frazierfort, ME 36840"
+144,440,"Electronics|Headphones,Earbuds&Accessories|Headphones|On-Ear",988.07,UPI,2023/11/19,delivered,"98256 Preston Passage Suite 247
+Dickersonland, WV 64991"
+145,849,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,922.8,Debit Card,2023/3/30,cancelled,"50169 Castro Forges
+Rachelchester, OR 72416"
+146,493,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,779.78,PayPal,2023/4/20,delivered,"USS Cantrell
+FPO AP 83163"
+147,318,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Pens,Pencils&WritingSupplies|Pens&Refills|BottledInk",359.22,UPI,2025/1/7,delivered,"346 Joshua Mall Suite 582
+Lake Margaret, NM 13654"
+148,850,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|LintShavers",304.78,UPI,2024/8/11,cancelled,"3913 Gallegos Drive
+Port Tanya, NC 89785"
+149,681,Home&Kitchen|HomeStorage&Organization|LaundryOrganization|LaundryBaskets,704.98,Credit Card,2023/6/5,delivered,"134 Garcia Knolls
+Michaelshire, FM 67202"
+150,942,Electronics|WearableTechnology|SmartWatches,515.88,Credit Card,2024/6/9,delivered,"327 Joseph Canyon Suite 885
+Suarezfurt, NV 98055"
+151,86,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons",364.82,Debit Card,2024/3/19,delivered,"0361 Brooks Cliffs
+Mcmahonmouth, HI 13962"
+152,210,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|DigitalKitchenScales,150.38,PayPal,2023/8/30,delivered,"USNV Rodriguez
+FPO AA 87530"
+153,920,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Vacuums&FloorCare|Vacuums|HandheldVacuums",745.23,Debit Card,2024/10/3,delivered,"866 Elizabeth Ferry
+Port Kathy, AZ 84221"
+154,465,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,72.79,UPI,2024/9/4,delivered,"4176 Burns Villages
+Christyville, FM 62031"
+155,818,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,564.56,Debit Card,2023/11/13,delivered,"2288 Billy Key
+Port Crystal, KS 52679"
+156,848,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",379.1,UPI,2023/7/26,delivered,"5945 Little Expressway Suite 907
+South April, NV 89874"
+157,304,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|DVICables,494.35,PayPal,2023/6/5,delivered,"22482 John Falls Apt. 921
+Simsville, IN 67782"
+158,283,Electronics|Mobiles&Accessories|MobileAccessories|Stands,259.27,Debit Card,2023/8/26,delivered,"PSC 9085, Box 9221
+APO AA 90558"
+159,625,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",577.08,Net Banking,2024/4/3,delivered,"19476 Brandon Glen
+Peterstown, OH 99861"
+160,70,"Home&Kitchen|Heating,Cooling&AirQuality|Fans|ExhaustFans",803.67,PayPal,2023/7/15,delivered,"57503 Paul Corner Suite 932
+North Lorifurt, CT 75440"
+161,975,Computers&Accessories|Accessories&Peripherals|Audio&VideoAccessories|PCSpeakers,492.41,PayPal,2024/5/8,delivered,"5977 Timothy Drive Suite 922
+Matatown, AZ 78945"
+162,306,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|SandwichMakers,850.79,PayPal,2025/1/14,delivered,"4289 Ramirez Prairie
+New Dylanmouth, IL 61786"
+163,186,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,280.6,PayPal,2024/7/24,delivered,"88728 Osborn Highway Apt. 563
+Hernandezfurt, MO 66910"
+164,500,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",544.59,Credit Card,2024/1/23,delivered,"509 Douglas Harbor Apt. 523
+West Nicholas, HI 66622"
+165,146,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,936.21,Debit Card,2024/11/23,delivered,"374 Marshall Gardens Suite 345
+Mackenziechester, ID 64980"
+166,762,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,734.17,Net Banking,2023/8/27,delivered,"875 Brittany Shoal
+South Ericton, ME 46913"
+167,148,Electronics|WearableTechnology|SmartWatches,534.88,PayPal,2023/3/29,delivered,"33624 Cooke Green
+Ritaland, VI 05343"
+168,170,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|HandBlenders,267.09,Net Banking,2024/1/14,cancelled,"6872 Sandoval Flats Suite 918
+West Suzannefurt, PR 50698"
+169,661,"Computers&Accessories|Printers,Inks&Accessories|Inks,Toners&Cartridges|InkjetInkCartridges",526.9,UPI,2023/7/8,delivered,"016 Howard Track Suite 537
+Robertshire, AR 32723"
+170,157,Electronics|Accessories|MemoryCards|MicroSD,235.03,Credit Card,2024/5/7,delivered,"135 Hoover Orchard Suite 609
+Millerburgh, MT 23526"
+171,631,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|Lapdesks,411.37,Net Banking,2023/4/29,delivered,"8184 Deborah Station
+Holmeston, IL 81259"
+172,67,Computers&Accessories|ExternalDevices&DataStorage|ExternalHardDisks,368.76,UPI,2024/3/14,delivered,"86822 Jacqueline Summit Apt. 234
+West Deborah, ME 77433"
+173,205,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,918.03,Credit Card,2024/12/7,delivered,"88505 Hunter Square
+East Andrea, IN 21101"
+174,603,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,155.96,PayPal,2024/9/18,shipped,"5952 Chandler Pine
+New Danielle, OK 64217"
+175,188,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|SteamIrons",153.5,Net Banking,2023/4/16,delivered,"Unit 6513 Box 9439
+DPO AP 23159"
+176,806,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",421.68,Debit Card,2024/2/28,delivered,"992 Rice Garden Apt. 465
+Allisonmouth, OR 91469"
+177,305,"Electronics|HomeTheater,TV&Video|Accessories|Cables|HDMICables",368.9,Net Banking,2024/3/8,cancelled,"01503 Martinez Mill
+North Samantha, ID 37632"
+178,590,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,548.23,Debit Card,2023/12/16,delivered,"546 Richmond Harbor
+East Stephanie, ID 11829"
+179,194,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons",608.6,PayPal,2023/3/29,delivered,"822 Khan Port
+North Michelle, WI 55491"
+180,564,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,112.84,Credit Card,2024/3/27,delivered,"47614 Thomas Ways Apt. 418
+East Garrettton, WI 56492"
+181,756,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Mills&Grinders|WetGrinders,465.97,Credit Card,2023/10/1,delivered,"15234 Hannah Fords Suite 501
+Charlesland, FL 25325"
+182,985,Computers&Accessories|Accessories&Peripherals|HardDiskBags,815.43,Debit Card,2023/8/24,delivered,"256 Miller Canyon
+Rebeccastad, NY 73175"
+183,985,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",37.01,Credit Card,2024/5/2,delivered,"43904 Mitchell Oval Apt. 834
+Thompsonborough, SC 92311"
+184,446,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,751.28,UPI,2024/6/18,delivered,"924 William River Apt. 703
+East Cathy, ND 92026"
+185,648,"Electronics|Mobiles&Accessories|MobileAccessories|Maintenance,Upkeep&Repairs|ScreenProtectors",165.16,Debit Card,2024/4/2,delivered,"8009 Mcgee Coves Suite 407
+Martinezfurt, MA 15911"
+186,670,OfficeProducts|OfficePaperProducts|Paper|Copy&PrintingPaper|ColouredPaper,296.43,Credit Card,2023/5/7,delivered,"75542 Jones Drives Suite 079
+Josephfort, SC 72707"
+187,753,Electronics|WearableTechnology|SmartWatches,59.01,Credit Card,2023/7/27,delivered,"97898 Koch Spur Apt. 170
+Poolechester, AL 24461"
+188,671,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons",151.78,Net Banking,2024/4/26,delivered,"830 Lopez Island Apt. 175
+Port Ryan, MN 64049"
+189,271,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|InductionCooktop,824.67,PayPal,2024/8/7,delivered,"13205 Ronald Cliff
+Lake Williammouth, WV 03931"
+190,728,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MouseSets",426.98,Credit Card,2024/12/2,delivered,"36755 Chandler Street Apt. 506
+Schultzland, NE 28658"
+191,658,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",213.71,Credit Card,2024/12/16,delivered,"USS Sparks
+FPO AP 25868"
+192,971,"Computers&Accessories|Printers,Inks&Accessories|Inks,Toners&Cartridges|InkjetInkCartridges",258.95,Debit Card,2024/9/3,delivered,"24236 Carter Views
+Susanton, KS 61600"
+193,275,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",484.57,Credit Card,2023/8/8,delivered,"55470 Rebecca Court Apt. 909
+Hayesside, GA 59601"
+194,394,"Computers&Accessories|Printers,Inks&Accessories|Printers",340.21,Net Banking,2023/12/20,delivered,"78289 Wall Ports Apt. 279
+Brandonfurt, NC 88618"
+195,453,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",426.71,Net Banking,2024/2/15,delivered,"Unit 1156 Box 6563
+DPO AP 75874"
+196,69,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|HandBlenders,29.5,Credit Card,2024/7/20,shipped,"2143 Christian Plains
+South Jennifer, UT 39946"
+197,791,"Electronics|HomeTheater,TV&Video|Televisions|StandardTelevisions",108.61,Debit Card,2023/3/24,delivered,"2919 Nelson Harbors
+Lopezbury, PR 89100"
+198,271,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Notebooks,WritingPads&Diaries|CompositionNotebooks",230.41,Net Banking,2024/11/16,delivered,"05158 Kristin Port Apt. 185
+East Shelleyburgh, MP 68461"
+199,607,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",825.01,Net Banking,2025/3/1,shipped,"0538 Lauren Islands Apt. 463
+New Heiditon, GA 91863"
+200,479,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",442.65,UPI,2024/7/17,cancelled,"Unit 4094 Box 9079
+DPO AA 56919"
+201,216,Electronics|WearableTechnology|SmartWatches,497.59,PayPal,2024/8/13,delivered,"876 Jason Heights
+West Kari, ND 77951"
+202,991,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,963.78,Credit Card,2025/3/2,delivered,"93120 Lisa Terrace Suite 820
+New Brandon, PA 02852"
+203,819,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",409.67,PayPal,2024/8/12,delivered,"979 Nathan Haven Apt. 819
+Gallegosshire, GA 26834"
+204,180,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,574.81,PayPal,2024/4/1,delivered,"5987 James Ridges Apt. 373
+North Michael, AZ 30018"
+205,706,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,926.84,Net Banking,2023/7/26,delivered,"4012 Lauren Mews
+Alvaradohaven, AR 94936"
+206,819,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,639.89,PayPal,2023/7/13,delivered,"9493 Moore Hollow Suite 062
+South Coryburgh, AS 12032"
+207,31,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|HandBlenders,777.86,Debit Card,2023/7/6,delivered,"195 Walker Turnpike
+South Jasminehaven, PW 35044"
+208,201,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,191.41,Credit Card,2024/10/7,delivered,"989 John Mall Suite 786
+Rowlandfurt, UT 11632"
+209,16,OfficeProducts|OfficeElectronics|Calculators|Scientific,210.71,PayPal,2023/12/11,delivered,"24771 Martinez Hollow
+Salazarburgh, HI 82007"
+210,263,Electronics|Accessories|MemoryCards|MicroSD,859.29,PayPal,2025/1/11,delivered,"PSC 8916, Box 3339
+APO AE 07857"
+211,754,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Vacuums&FloorCare|Vacuums|CanisterVacuums",20.89,UPI,2024/6/22,delivered,"34281 Christina Prairie
+Cochranbury, MT 98782"
+212,7,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,385.55,PayPal,2024/9/20,delivered,"3549 Duarte Islands Apt. 000
+New Cassidyport, WV 61206"
+213,780,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Rice&PastaCookers,445.49,Debit Card,2024/5/5,delivered,"254 Brandon Glen Apt. 389
+Lake Kyleborough, GA 52183"
+214,575,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|LintShavers",597.14,Credit Card,2023/8/5,delivered,"23369 Kenneth Corners
+New Anna, VI 36200"
+215,224,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Pens,Pencils&WritingSupplies|Pens&Refills|StickBallpointPens",598.15,Credit Card,2023/5/13,delivered,"7942 Heidi Locks Apt. 773
+Carterhaven, MO 68987"
+216,635,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",506.7,Net Banking,2023/10/11,delivered,"06851 Gloria Fords
+Karaton, IL 15183"
+217,441,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,302.84,PayPal,2023/11/6,shipped,"47467 Caitlin Ridge
+North Courtneyfort, VI 80955"
+218,673,Electronics|PowerAccessories|SurgeProtectors,621.84,Net Banking,2024/3/19,delivered,"PSC 3597, Box 2506
+APO AP 16809"
+219,868,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,437.44,Debit Card,2024/1/18,delivered,"281 Harper Drive
+Dianashire, AR 81355"
+220,143,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|ElectricKettles,967.15,Credit Card,2024/1/22,delivered,"7481 Joel Fields
+Bakerfort, SC 89802"
+221,701,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,223.28,UPI,2023/8/16,delivered,"87094 Hansen Harbors Suite 463
+Sherrystad, WV 31614"
+222,9,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",108.63,UPI,2025/2/12,delivered,"PSC 9800, Box 6661
+APO AP 08926"
+223,890,Electronics|Mobiles&Accessories|MobileAccessories|D茅cor,951.55,Net Banking,2024/1/4,delivered,"311 Smith Junction
+Lake Samantha, OH 53638"
+224,438,Electronics|Cameras&Photography|VideoCameras,398.57,PayPal,2024/4/1,delivered,"830 Kristen Crossing
+Clarkborough, VA 01090"
+225,673,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,470.49,Debit Card,2024/12/16,delivered,"PSC 2735, Box 4366
+APO AA 89839"
+226,223,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|HandBlenders,621.06,Debit Card,2023/3/11,shipped,"691 Clark Island Suite 686
+Rodriguezville, WA 08449"
+227,323,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice",248.83,Credit Card,2024/9/27,delivered,"23203 Amanda Square
+Thomaston, GA 92577"
+228,999,Computers&Accessories|Accessories&Peripherals|Audio&VideoAccessories|PCMicrophones,674.03,PayPal,2023/8/3,delivered,"712 Elizabeth Court Suite 012
+Scottshire, MT 83770"
+229,628,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|Kettle&ToasterSets,883.56,UPI,2024/8/17,delivered,"PSC 0238, Box 5010
+APO AE 77100"
+230,870,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons",148.99,Credit Card,2024/8/16,delivered,"902 Craig Points Apt. 371
+West Jonathan, WI 88915"
+231,34,Electronics|Mobiles&Accessories|MobileAccessories|Chargers|AutomobileChargers,972.25,Debit Card,2023/10/6,delivered,"8134 Mark Club Apt. 781
+Welchshire, NC 14159"
+232,119,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|SandwichMakers,955.89,Net Banking,2024/12/7,shipped,"1800 Charlene Pike
+Williamsshire, SC 13014"
+233,925,Home&Kitchen|Kitchen&HomeAppliances|WaterPurifiers&Accessories|WaterFilters&Purifiers,425.66,Net Banking,2025/3/5,pending,"229 Barker Stream Apt. 693
+Kaitlinport, AR 86125"
+234,327,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice",454.25,UPI,2024/6/3,delivered,"108 Walker Circles
+Lake Matthewfort, AR 85683"
+235,837,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|CameraPrivacyCovers,618.48,Debit Card,2023/5/15,delivered,"Unit 3542 Box 1858
+DPO AP 31290"
+236,123,Electronics|Mobiles&Accessories|MobileAccessories|Chargers|WallChargers,925.28,PayPal,2023/5/7,delivered,"8197 Vega Route Suite 647
+North Daniel, RI 64150"
+237,686,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|LintShavers",862.42,Net Banking,2023/7/2,delivered,"269 Megan Locks
+West Michael, NM 07041"
+238,660,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|LintShavers",322.33,Net Banking,2024/7/12,delivered,"84905 Brittany Turnpike
+North Dennis, IL 87657"
+239,284,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",665.27,Credit Card,2024/7/21,delivered,"895 Morris Walk
+South Alanmouth, SD 54881"
+240,33,Home&Kitchen|Kitchen&HomeAppliances|WaterPurifiers&Accessories|WaterCartridges,118.76,Credit Card,2024/9/12,delivered,"093 Barton Flats Apt. 028
+Janetberg, GU 35053"
+241,289,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|BasicMobiles,888.63,Debit Card,2023/11/14,delivered,"4030 Bradford Greens Apt. 202
+Thomasmouth, KY 54399"
+242,104,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",850.33,Debit Card,2024/10/15,delivered,"5348 Farmer Unions Suite 173
+New Aaron, NH 56617"
+243,57,HomeImprovement|Electrical|Adapters&Multi-Outlets,683.06,UPI,2023/6/12,delivered,"Unit 9948 Box 6820
+DPO AP 30315"
+244,251,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,981.02,UPI,2023/4/30,delivered,"1387 Joshua Canyon
+Kathrynview, ME 96150"
+245,988,Electronics|Mobiles&Accessories|MobileAccessories|Stands,588.91,Debit Card,2024/2/13,delivered,"9739 Bruce Causeway
+West Wendy, MP 67987"
+246,258,"Home&Kitchen|Kitchen&HomeAppliances|Coffee,Tea&Espresso|MilkFrothers",61.57,Net Banking,2024/9/10,delivered,"38952 Lee Village
+Tylerbury, NJ 18181"
+247,738,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|DVICables,959.82,Debit Card,2023/6/27,delivered,"488 Salazar Center
+Port Erinmouth, OR 47041"
+248,774,"Electronics|Mobiles&Accessories|MobileAccessories|Maintenance,Upkeep&Repairs|ScreenProtectors",793.85,Credit Card,2024/4/4,delivered,"Unit 4217 Box 2189
+DPO AA 14156"
+249,222,Home&Kitchen|Kitchen&HomeAppliances|SewingMachines&Accessories|Sewing&EmbroideryMachines,760.84,Net Banking,2023/12/8,delivered,"109 Randy Fort
+South Amy, KY 54741"
+250,970,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|InstantWaterHeaters",755.77,UPI,2025/2/22,delivered,"5161 Lee Shoal Suite 980
+North Markmouth, CT 17099"
+251,850,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,547.26,UPI,2024/5/18,delivered,"672 Leonard Parkway
+Tinastad, NE 83573"
+252,418,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,400.63,Credit Card,2023/4/6,delivered,"Unit 7713 Box 4408
+DPO AE 99289"
+253,853,Electronics|Mobiles&Accessories|MobileAccessories|AutomobileAccessories|Cradles,665.9,Net Banking,2024/7/9,delivered,"3279 Travis Drives Apt. 894
+Daniellefurt, TN 48645"
+254,157,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|EthernetCables,15.07,Credit Card,2023/4/17,delivered,"39980 Jeff Loop Suite 038
+East Ellenmouth, ID 78778"
+255,477,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,958.82,Debit Card,2024/2/29,delivered,"691 Grimes Dale
+Patrickshire, CO 88427"
+256,193,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,456.82,UPI,2024/2/25,delivered,"5172 Sims Prairie Suite 893
+New Cathyberg, MT 68746"
+257,542,Electronics|WearableTechnology|SmartWatches,441.9,Net Banking,2024/6/13,delivered,"9267 Hernandez Stream
+Lake Lisa, FM 54727"
+258,779,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,22.37,Credit Card,2024/8/10,delivered,"9743 Morgan Track
+New Andrewmouth, AL 08523"
+259,957,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,998.8,PayPal,2025/3/3,delivered,"2204 White Plaza Suite 230
+Tylerborough, AL 02890"
+260,595,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Juicers,318.23,Net Banking,2023/4/23,delivered,"79465 Lauren Orchard
+Danieltown, IN 68449"
+261,390,"Home&Kitchen|Heating,Cooling&AirQuality|Humidifiers",985.69,Credit Card,2024/3/10,delivered,"68505 Lee Canyon
+Brendaton, FM 54564"
+262,26,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,783.74,Net Banking,2024/3/16,delivered,"399 Brooke Pines
+Lake Andrewberg, IN 17888"
+263,141,Home&Kitchen|Kitchen&HomeAppliances|WaterPurifiers&Accessories|WaterPurifierAccessories,344.76,UPI,2023/10/8,cancelled,"139 Reese Falls
+Boyleview, NY 12699"
+264,403,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|SmallApplianceParts&Accessories|StandMixerAccessories,382.67,Credit Card,2023/5/9,delivered,"0010 Lee Hills
+Lake Angelaburgh, OK 97436"
+265,521,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,220.66,Debit Card,2024/10/25,delivered,"PSC 3273, Box 9750
+APO AP 92849"
+266,684,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,606.92,Credit Card,2024/2/1,delivered,"877 Mary Cliff
+Davidport, AZ 33597"
+267,845,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",291.08,Credit Card,2024/2/18,delivered,"28827 Graham Mount
+North Kaitlinside, AR 87638"
+268,898,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",759.13,Credit Card,2023/5/18,delivered,"2608 Travis Fall
+Meganton, OK 73224"
+269,941,Electronics|WearableTechnology|SmartWatches,249.92,Credit Card,2024/1/13,delivered,"98190 Vega Island
+Moorehaven, CA 22966"
+270,415,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Vacuums&FloorCare|Vacuums|RoboticVacuums",18.49,Debit Card,2024/8/14,delivered,"277 Ryan Island
+West Henry, IA 90951"
+271,598,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,349.46,UPI,2023/5/7,delivered,"462 Yolanda Unions Suite 904
+New Benjaminborough, IN 37710"
+272,6,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",295.49,Credit Card,2024/1/16,delivered,"0764 Jacob Cliffs Apt. 680
+Aguirrefurt, ID 81681"
+273,481,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,85.32,Net Banking,2023/12/28,delivered,"63044 Brandt Glens Apt. 430
+Cruzport, AL 96060"
+274,871,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,552.17,UPI,2023/7/10,shipped,"0907 Samantha Green Apt. 300
+New Emily, VI 99252"
+275,215,"Electronics|Headphones,Earbuds&Accessories|Headphones|On-Ear",220.34,Credit Card,2024/7/28,delivered,"847 Kaiser Tunnel Apt. 050
+Harrisville, KS 49143"
+276,662,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",808.94,Credit Card,2023/5/22,delivered,"222 Davis Ford
+North Ronaldton, NH 92548"
+277,231,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice",43.95,Credit Card,2023/10/7,delivered,"1660 Laura Freeway
+Port Leroyton, SD 30202"
+278,240,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Notebooks,WritingPads&Diaries|CompositionNotebooks",628.3,Net Banking,2023/5/29,shipped,"773 Richard Fall
+West Ianberg, VT 11707"
+279,513,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons",135.39,PayPal,2025/1/14,delivered,"PSC 6156, Box 4492
+APO AP 39796"
+280,595,Computers&Accessories|NetworkingDevices|NetworkAdapters|WirelessUSBAdapters,559.92,Net Banking,2024/11/25,delivered,"1945 Antonio Place Suite 138
+Jameshaven, MI 06887"
+281,191,Electronics|WearableTechnology|SmartWatches,200.13,PayPal,2024/4/12,delivered,"77572 Angela Prairie Apt. 808
+Williamsonville, DE 72376"
+282,696,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,294.6,Net Banking,2023/4/21,delivered,"7580 Brown Row Apt. 034
+Justinville, PW 45707"
+283,977,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,482.86,PayPal,2023/3/26,delivered,"05149 Calderon Rue
+Oliverburgh, CO 22795"
+284,287,Electronics|Cameras&Photography|SecurityCameras|DomeCameras,450.37,UPI,2024/12/3,delivered,"USNV White
+FPO AE 01489"
+285,254,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,632.05,Debit Card,2023/3/25,delivered,"73614 Lane Lodge Suite 595
+Christophershire, KY 00705"
+286,239,Computers&Accessories|NetworkingDevices|NetworkAdapters|PowerLANAdapters,364,PayPal,2024/8/8,delivered,"Unit 9149 Box 6444
+DPO AA 12039"
+287,760,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|WaffleMakers&Irons,822.36,Credit Card,2024/1/21,delivered,"2699 Swanson Ports Suite 844
+Richardtown, AS 96538"
+288,709,"Computers&Accessories|Printers,Inks&Accessories|Printers",743.84,Credit Card,2025/2/3,delivered,"91385 Margaret Causeway
+Taylorshire, WI 71956"
+289,751,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",556.76,Credit Card,2024/11/12,delivered,"02763 Grant Turnpike Apt. 621
+Mirandaberg, AK 02062"
+290,433,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",181.66,Net Banking,2023/4/15,delivered,"392 Williams Heights Apt. 016
+Rachelside, FM 12981"
+291,829,"Electronics|Mobiles&Accessories|MobileAccessories|Maintenance,Upkeep&Repairs|ScreenProtectors",91.58,Net Banking,2023/12/5,delivered,"69243 Maria Stream Apt. 383
+West William, OK 26679"
+292,736,"Home&Kitchen|Heating,Cooling&AirQuality|AirPurifiers|HEPAAirPurifiers",825.78,PayPal,2024/12/5,delivered,"13782 Matthew Glens Apt. 319
+Dennisland, NM 59874"
+293,894,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|ImmersionRods",515.45,Credit Card,2023/10/25,cancelled,"367 Jones Locks Apt. 084
+Gutierrezview, MH 82223"
+294,525,Electronics|Cameras&Photography|Accessories|Tripods&Monopods|Tabletop&TravelTripods,352.37,Credit Card,2023/12/28,delivered,"465 Brown Cliffs
+Jeremyton, MA 84590"
+295,897,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,648.25,PayPal,2023/5/16,delivered,"0661 King Light Apt. 592
+Ericmouth, AR 62454"
+296,806,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Mills&Grinders|WetGrinders,759.79,Net Banking,2024/12/19,delivered,"855 Michael Junctions
+West Ericbury, MT 08091"
+297,726,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,836.61,Debit Card,2023/6/2,delivered,"Unit 3561 Box 7716
+DPO AP 14534"
+298,241,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|Lapdesks,487.58,UPI,2023/9/9,shipped,"8287 Short Fall
+Danielfurt, VA 07255"
+299,284,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",231.66,Credit Card,2024/8/23,delivered,"513 Michael Lock
+Boydfort, MA 80296"
+300,105,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,352.23,UPI,2023/5/16,delivered,"047 Jennifer Key Apt. 041
+Colemanberg, AL 97001"
+301,600,Electronics|WearableTechnology|SmartWatches,220.47,Credit Card,2023/9/2,delivered,"46625 Ricky Summit
+East Angelabury, VA 86124"
+302,312,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",392.58,Net Banking,2023/9/18,delivered,"Unit 5870 Box 0298
+DPO AE 85458"
+303,818,Electronics|Cameras&Photography|SecurityCameras|DomeCameras,458.69,Credit Card,2024/6/26,delivered,"USCGC Palmer
+FPO AE 24171"
+304,49,Electronics|Mobiles&Accessories|MobileAccessories|D茅cor,61.17,Net Banking,2023/12/8,delivered,"27488 Michelle Cove Suite 447
+North Morgan, MD 84213"
+305,492,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|LintShavers",917.1,Debit Card,2024/10/26,delivered,"12046 Patricia Harbors Apt. 321
+Johnbury, MP 81614"
+306,597,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,343.23,Credit Card,2024/8/27,delivered,"37492 Graham Islands
+Lake Ambershire, OH 41427"
+307,205,Electronics|Mobiles&Accessories|MobileAccessories|Chargers|WallChargers,411.79,Credit Card,2025/1/9,delivered,"Unit 7360 Box 1754
+DPO AP 59853"
+308,718,Home&Kitchen|Kitchen&HomeAppliances|WaterPurifiers&Accessories|WaterPurifierAccessories,957.1,UPI,2024/12/28,delivered,"4480 George Plains Suite 839
+East Laurie, AR 94567"
+309,901,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MiniFoodProcessors&Choppers,146.78,UPI,2024/2/26,delivered,"4593 Amanda Land Suite 702
+East Amandaland, WI 53681"
+310,460,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",68.32,UPI,2023/11/16,delivered,"4100 Fisher Station Apt. 542
+Catherineside, MT 03494"
+311,852,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,472.3,UPI,2024/2/5,delivered,"138 Johnson Summit Apt. 411
+Thompsonport, ND 74080"
+312,481,Electronics|HomeAudio|Accessories|SpeakerAccessories|Mounts,705.71,Credit Card,2025/2/3,delivered,"53823 Shannon Mill Apt. 792
+Staceychester, MS 26061"
+313,408,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MouseSets",528,Net Banking,2024/12/10,delivered,"893 Moore Manors
+Lake Ronald, DE 83458"
+314,553,Electronics|Mobiles&Accessories|MobileAccessories|Mounts|HandlebarMounts,940.44,Credit Card,2024/5/12,delivered,"6855 Castro Mountains
+West Michele, FL 98843"
+315,107,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|EggBoilers,688.29,PayPal,2023/10/31,cancelled,"177 Mario Plains Apt. 356
+West Adamport, MS 18292"
+316,249,Electronics|WearableTechnology|SmartWatches,226.86,PayPal,2024/6/22,delivered,"83743 Nancy Courts
+Lake Katherineburgh, KS 35065"
+317,740,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboard&MiceAccessories|MousePads",281.07,Net Banking,2023/6/3,delivered,"3368 Kylie Knoll
+Nicoletown, FM 50863"
+318,805,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|Kettle&ToasterSets,255.73,Debit Card,2023/8/4,delivered,"4883 Lewis Mills Suite 211
+Owensland, IN 95356"
+319,487,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,906.17,Credit Card,2024/4/8,delivered,"43099 Lewis Orchard
+Joseside, MN 38279"
+320,172,Electronics|Mobiles&Accessories|MobileAccessories|StylusPens,452.18,Debit Card,2024/12/26,delivered,"210 Mindy Bridge Apt. 163
+Morrowhaven, OH 84488"
+321,948,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",387.02,Credit Card,2023/8/13,delivered,"395 Thompson Points Apt. 441
+East Richard, MS 68096"
+322,741,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",676.32,PayPal,2024/9/29,delivered,"17823 Acosta Estates Suite 149
+North Anaburgh, WY 71683"
+323,972,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|OvenToasterGrills,407.11,Net Banking,2023/6/20,shipped,"21584 Charlotte Tunnel
+Harveyville, IN 38250"
+324,624,"Electronics|HomeTheater,TV&Video|Accessories|3DGlasses",791.34,Credit Card,2023/5/14,delivered,"2999 Lindsey Landing
+New Kevinton, DC 15463"
+325,979,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,245.27,PayPal,2024/3/30,delivered,"4706 Lori Square Apt. 388
+West Courtneymouth, AZ 27452"
+326,509,Electronics|Mobiles&Accessories|MobileAccessories|Chargers|PowerBanks,294.03,Net Banking,2024/5/15,delivered,"1155 Potter Greens Apt. 682
+Lake Wendyberg, CA 74150"
+327,462,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|HandBlenders,726.08,PayPal,2023/10/27,delivered,"0856 Manuel Mills Apt. 252
+Georgeport, PA 68743"
+328,765,Electronics|WearableTechnology|SmartWatches,523.94,PayPal,2023/4/10,delivered,"45843 Sanchez Mountain Suite 601
+Smithland, DC 06475"
+329,496,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",98.32,Net Banking,2025/2/1,delivered,"342 Sandy Mission Suite 679
+Allenbury, NY 47076"
+330,457,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",391.87,Credit Card,2023/11/10,delivered,"USNS Green
+FPO AE 05882"
+331,353,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice",728.43,UPI,2023/7/4,cancelled,"21964 Chavez Spring
+New Lindseyborough, OK 29506"
+332,167,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",417.88,Credit Card,2024/2/25,delivered,"709 Craig Brook
+Port Danielport, VT 61763"
+333,261,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Vacuums&FloorCare|Vacuums|CanisterVacuums",778.05,Net Banking,2024/10/21,cancelled,"70856 Colin Avenue
+East Meganport, HI 00962"
+334,137,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|ElectricKettles,27.5,PayPal,2024/5/24,delivered,"297 Richards Harbor
+Virginiachester, SD 50923"
+335,251,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|DigitalKitchenScales,474.65,Credit Card,2024/2/3,delivered,"8054 Chris Street Suite 335
+North Traciemouth, OH 08556"
+336,978,OfficeProducts|OfficeElectronics|Calculators|Scientific,321.46,Credit Card,2023/9/25,delivered,"95479 Johnson Shoal
+Melissaside, CO 32854"
+337,695,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|Lapdesks,879.35,UPI,2023/12/8,delivered,"7372 Tiffany Mill Apt. 924
+West Kimberly, WY 74024"
+338,595,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|ElectricKettles,682.79,Credit Card,2024/4/8,delivered,"669 Spencer Run
+Montgomeryview, VA 51680"
+339,823,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MiniFoodProcessors&Choppers,976.93,Credit Card,2025/2/17,delivered,"32510 Martin Villages
+Mckenzieshire, PW 78465"
+340,6,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,363.19,Credit Card,2024/8/12,delivered,"71982 Manuel Drives
+Pottertown, WY 95405"
+341,249,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",151.32,PayPal,2024/3/24,delivered,"4743 Wall Turnpike
+Sheltonshire, AK 02992"
+342,471,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|JuicerMixerGrinders,278.73,PayPal,2024/4/11,cancelled,"196 Lisa Island
+Elizabethtown, ID 41348"
+343,821,Computers&Accessories|Accessories&Peripherals|UninterruptedPowerSupplies,765.45,Net Banking,2024/4/12,delivered,"033 Scott Groves
+Taylortown, NH 89215"
+344,68,"Electronics|HomeTheater,TV&Video|Accessories|Cables|HDMICables",138.84,UPI,2024/2/1,shipped,"2946 Joel Expressway Apt. 604
+East Monicaland, MP 56840"
+345,748,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",627.06,Net Banking,2024/8/26,delivered,"0089 Benjamin Spur
+Davidbury, FL 98912"
+346,432,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",133.68,Credit Card,2024/5/28,delivered,"820 Tyler Pines
+Lake Diana, IN 87630"
+347,431,Computers&Accessories|Accessories&Peripherals|PCGamingPeripherals|GamingMice,908.69,PayPal,2024/4/16,delivered,"455 Victor Harbor
+Dayland, KY 17729"
+348,941,Electronics|Cameras&Photography|Accessories|Tripods&Monopods|Tabletop&TravelTripods,946.28,Credit Card,2023/7/6,delivered,"601 Michael Squares
+West Paulmouth, MN 59187"
+349,770,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",929.86,UPI,2023/3/13,delivered,"360 Meyer Grove
+Morristown, WY 86828"
+350,712,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,441.59,Debit Card,2024/8/24,delivered,"834 Tiffany Passage
+Jessestad, MI 43301"
+351,552,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,248.46,Credit Card,2024/9/9,delivered,"59453 Billy Ford
+East Melissa, CA 93307"
+352,165,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,70.98,Net Banking,2024/5/2,shipped,"4629 Kelly Dale
+East Timothyberg, KY 10751"
+353,953,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",513,Net Banking,2023/10/12,delivered,"44535 Mallory Spur Suite 915
+Devinstad, MD 52377"
+354,996,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",128.1,PayPal,2023/7/5,delivered,"707 Martin Ports Apt. 405
+Danaburgh, NJ 28696"
+355,532,Electronics|WearableTechnology|SmartWatches,15.56,UPI,2025/2/22,shipped,"3715 Garcia Crossing
+New Patricia, MD 54802"
+356,927,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",978.8,PayPal,2023/10/19,delivered,"3855 Jennifer Port Suite 091
+South Adrian, MA 95899"
+357,336,"Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear",64.4,Credit Card,2023/9/26,delivered,"9212 Davis Locks
+Whitemouth, TN 84910"
+358,615,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",502.42,Credit Card,2025/2/10,delivered,"4764 Rebecca Pike Apt. 495
+South Georgeborough, VI 75708"
+359,128,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",437.41,Credit Card,2023/11/3,delivered,"27004 Anthony Plains Suite 822
+South Troy, NJ 65767"
+360,296,"Electronics|HomeTheater,TV&Video|Projectors",107.9,Net Banking,2024/8/6,delivered,"4503 Davis Pass Apt. 343
+Jennifermouth, OH 12150"
+361,170,Electronics|Mobiles&Accessories|MobileAccessories|Chargers|WallChargers,926.65,PayPal,2023/5/26,delivered,"55283 Stone Street
+Lake Joseph, UT 37992"
+362,272,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,840.19,Credit Card,2023/12/12,delivered,"6276 Mueller Island Suite 579
+Christopherhaven, OR 44203"
+363,743,Electronics|Mobiles&Accessories|MobileAccessories|StylusPens,40.1,PayPal,2023/6/5,delivered,"311 Carla Crest
+East Daniel, AK 22735"
+364,539,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|DigitalKitchenScales,800.94,Net Banking,2023/4/26,delivered,"690 Lindsay Ridge Suite 393
+Zacharystad, ND 49782"
+365,2,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MiniFoodProcessors&Choppers,551.26,UPI,2025/1/22,delivered,"22219 Jessica Club
+Ayalaburgh, WA 80720"
+366,649,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|HandMixers,563.31,Net Banking,2023/11/22,delivered,"514 Rodriguez Meadows Suite 659
+Stevenmouth, AL 35287"
+367,706,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,196.25,Net Banking,2025/1/1,delivered,"7944 Robinson Greens Apt. 234
+West Davidfort, PW 34128"
+368,929,Electronics|Mobiles&Accessories|MobileAccessories|D茅cor,746.87,UPI,2024/3/13,delivered,"97635 Raymond Falls Suite 858
+South Christymouth, OH 34293"
+369,506,"Home&Kitchen|Kitchen&HomeAppliances|Coffee,Tea&Espresso|DripCoffeeMachines",889.57,UPI,2024/11/1,delivered,"USNV Trevino
+FPO AA 35966"
+370,994,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,901.85,PayPal,2024/1/7,delivered,"276 Brett Mission Apt. 618
+Port Markside, NY 62098"
+371,466,Electronics|Mobiles&Accessories|MobileAccessories|Chargers|WallChargers,756.24,UPI,2023/7/1,delivered,"327 Tyler Pines
+Brooksland, AR 12765"
+372,87,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|BasicMobiles,808.28,Net Banking,2023/8/3,delivered,"3825 Coffey Islands
+Karenburgh, IL 96374"
+373,958,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,153.43,Debit Card,2024/6/13,delivered,"977 Coleman Cape
+Port Alexisbury, MD 57469"
+374,795,Electronics|Mobiles&Accessories|MobileAccessories|Cables&Adapters|OTGAdapters,966,Debit Card,2024/6/11,shipped,"379 Mitchell Terrace
+New Scott, CO 61163"
+375,381,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,276.14,Net Banking,2024/4/6,delivered,"Unit 3087 Box 5342
+DPO AP 41006"
+376,750,MusicalInstruments|Microphones|Condenser,931.13,Credit Card,2023/10/7,delivered,"169 Rhonda Islands Apt. 972
+Richardsonmouth, IA 52722"
+377,337,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,517.69,UPI,2024/6/4,delivered,"838 Rich Ports Apt. 048
+Kaylaview, RI 67389"
+378,915,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",886.86,PayPal,2024/10/2,delivered,"PSC 0028, Box 9882
+APO AA 30707"
+379,230,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,320.9,UPI,2024/12/26,delivered,"USCGC Fernandez
+FPO AA 05395"
+380,264,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|HandBlenders,8.98,Net Banking,2023/7/16,delivered,"05426 Norris Manor Suite 930
+Port Davidshire, IN 73074"
+381,69,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice",141.72,Credit Card,2024/2/5,delivered,"6514 Sharon Plains Suite 778
+Jayside, NC 29636"
+382,701,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",962.91,Credit Card,2024/3/12,delivered,"2203 Roy Shores Apt. 985
+Fergusonberg, CO 57827"
+383,130,Computers&Accessories|NetworkingDevices|Routers,703.5,PayPal,2024/7/29,delivered,"3866 Rocha Manor Suite 188
+Chrishaven, OK 83016"
+384,47,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|InductionCooktop,782.86,UPI,2023/10/4,delivered,"0522 Sarah Union
+Port Rebecca, IN 07238"
+385,153,"Computers&Accessories|Printers,Inks&Accessories|Inks,Toners&Cartridges|InkjetInkRefills&Kits",154.41,UPI,2023/11/7,delivered,"47453 Haley Views
+South Victoriastad, KY 15766"
+386,503,Electronics|Cameras&Photography|Accessories|Cleaners|CleaningKits,408.9,PayPal,2023/8/8,shipped,"3253 Singleton Tunnel
+East Jessica, TX 69607"
+387,98,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Juicers,913.69,Credit Card,2024/9/2,delivered,"99944 Ashley Isle
+Port Adrianamouth, VI 39196"
+388,1000,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",576.87,Credit Card,2024/9/30,delivered,"72556 Porter Extension
+Aprilfort, LA 36218"
+389,993,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,122.91,UPI,2023/4/29,delivered,"4816 Stacy Cape
+Brooksside, NV 38019"
+390,929,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,211.85,UPI,2023/12/19,delivered,"4385 Perez Lodge
+New Jennifer, KS 44747"
+391,784,Computers&Accessories|NetworkingDevices|NetworkAdapters|WirelessUSBAdapters,195.46,Net Banking,2024/12/20,delivered,"1925 Baxter Expressway Apt. 158
+Johnsontown, TX 36951"
+392,297,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|JuicerMixerGrinders,795.17,UPI,2024/5/21,delivered,"88148 Watkins Knoll Apt. 826
+Lake Destinyborough, VI 10069"
+393,959,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,761.1,Credit Card,2024/4/5,delivered,"51241 Fowler Parks
+New Donna, UT 15595"
+394,521,"Electronics|HomeTheater,TV&Video|Accessories|TVMounts,Stands&Turntables|TVWall&CeilingMounts",209.81,Credit Card,2023/3/22,delivered,"965 Johnson Route Suite 662
+New Karlaside, OR 87363"
+395,772,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,290.46,PayPal,2023/9/26,delivered,"7962 Michael Village Suite 140
+North Brettbury, TN 96289"
+396,64,Computers&Accessories|NetworkingDevices|NetworkAdapters|PowerLANAdapters,230.98,Debit Card,2023/3/19,delivered,"6146 Alvarez Skyway
+Monicafort, OH 12259"
+397,316,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",135.4,Net Banking,2024/10/23,delivered,"972 Mendez River Suite 301
+Bishopchester, AR 52383"
+398,726,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",676.66,Credit Card,2023/11/12,delivered,"8641 Schroeder Prairie
+Starkburgh, AK 73947"
+399,976,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,44.3,Credit Card,2024/8/28,delivered,"159 Robert Mountain
+New Kelly, NJ 17936"
+400,112,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Notebooks,WritingPads&Diaries|CompositionNotebooks",486.64,Credit Card,2023/9/2,cancelled,"12762 Schmidt Trail Apt. 747
+Matthewborough, MS 83676"
+401,281,Computers&Accessories|ExternalDevices&DataStorage|PenDrives,505.11,PayPal,2023/8/6,delivered,"52692 Jonathan Summit
+West Gabriel, TN 34928"
+402,830,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|BasicMobiles,59.59,Debit Card,2023/3/9,delivered,"2871 Wayne Ports Apt. 458
+South Joshuaview, MP 97435"
+403,724,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|BasicMobiles,289.35,Debit Card,2024/7/1,delivered,"928 Brandy Stravenue Apt. 828
+West Eric, MN 84698"
+404,559,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,397.72,Debit Card,2024/11/3,delivered,"3495 Bass Forge
+Josetown, ID 54510"
+405,784,"Electronics|HomeTheater,TV&Video|Accessories|Cables|HDMICables",678.28,Debit Card,2024/5/4,delivered,"Unit 4269 Box 2804
+DPO AA 91502"
+406,96,Electronics|Mobiles&Accessories|MobileAccessories|Cases&Covers|BasicCases,287.32,Debit Card,2024/9/12,delivered,"819 Patrick Parks Apt. 203
+New Bettyport, HI 63409"
+407,85,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,196.45,Debit Card,2023/7/26,delivered,"05692 Bell Mews Suite 643
+Carpenterview, PW 72386"
+408,259,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons",48.62,UPI,2023/8/25,shipped,"378 John Locks
+Stevenside, WV 90485"
+409,887,Electronics|WearableTechnology|SmartWatches,946.43,UPI,2024/9/21,delivered,"13242 Fuller Pine
+Ellischester, AK 79820"
+410,955,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Vacuums&FloorCare|VacuumAccessories|VacuumBags|HandheldBags",178.75,Net Banking,2023/8/31,delivered,"3064 Rhonda Burg
+East Timothy, AZ 79285"
+411,846,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|Bags&Sleeves|LaptopSleeves&Slipcases,432.09,Debit Card,2024/11/6,delivered,"65940 Powers Ferry Suite 417
+Austinmouth, WI 48111"
+412,643,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|HandBlenders,628.31,PayPal,2023/6/19,delivered,"7481 Amanda Mews Apt. 604
+Phillipsview, WY 93255"
+413,523,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",361.1,Net Banking,2024/11/14,delivered,"59638 Stephanie Common Apt. 577
+South Jessica, CO 62058"
+414,509,Electronics|Mobiles&Accessories|MobileAccessories|D茅cor|PhoneCharms,99.41,UPI,2024/6/8,delivered,"PSC 4017, Box 9122
+APO AA 35013"
+415,714,Electronics|Cameras&Photography|Accessories|Tripods&Monopods|Tabletop&TravelTripods,563,PayPal,2024/3/24,delivered,"2284 Bell Coves Apt. 136
+New Michaelchester, NV 68801"
+416,934,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Pens,Pencils&WritingSupplies|Pens&Refills|StickBallpointPens",936.15,Credit Card,2024/7/18,delivered,"33332 Michael Cliff
+East Bradleyshire, DE 65731"
+417,132,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|ElectricKettles,368.07,UPI,2024/7/16,cancelled,"77609 Laura Unions
+New David, OR 96242"
+418,612,"Computers&Accessories|Printers,Inks&Accessories|Printers|InkjetPrinters",471.89,Net Banking,2023/10/12,delivered,"574 Barnes Garden
+New Michael, NH 71092"
+419,500,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Pens,Pencils&WritingSupplies|Pens&Refills|GelInkRollerballPens",5.17,UPI,2024/11/3,delivered,"07489 Armstrong Cove
+Hamiltonmouth, AR 31517"
+420,579,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons",176.34,Debit Card,2023/3/11,shipped,"893 Sara Terrace
+Derekshire, NH 13972"
+421,646,Electronics|Cameras&Photography|Accessories|Tripods&Monopods|CompleteTripodUnits,937.84,Credit Card,2023/4/16,delivered,"551 Victoria Port
+Amberville, ID 42616"
+422,774,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Notebooks,WritingPads&Diaries|CompositionNotebooks",149.74,Net Banking,2023/3/16,delivered,"4031 Elizabeth Flat
+Robinsonfurt, DE 36904"
+423,108,Electronics|WearableTechnology|SmartWatches,298.26,Net Banking,2023/11/14,delivered,"52583 Brittany Springs Suite 727
+Carterbury, UT 16900"
+424,724,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|BasicMobiles,133.57,PayPal,2025/1/21,delivered,"401 Brent Junction Apt. 861
+East Penny, DE 08734"
+425,253,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,659.02,UPI,2024/9/2,delivered,"084 Holland Loaf Suite 016
+Stephanietown, OH 83048"
+426,945,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|InductionCooktop,91.8,Debit Card,2024/12/29,delivered,"PSC 3323, Box 3734
+APO AE 73240"
+427,990,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders,865.76,Credit Card,2024/5/30,delivered,"8268 Julie Roads
+New Michaelville, CA 07838"
+428,888,Electronics|WearableTechnology|SmartWatches,446.81,Net Banking,2023/6/23,delivered,"67104 Freeman Corner
+Port Michael, WY 60599"
+429,852,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice",905.34,UPI,2025/1/9,shipped,"01035 Shelton Greens
+Port Kathybury, UT 31051"
+430,208,Electronics|Cameras&Photography|Flashes|Macro&RinglightFlashes,66.83,Credit Card,2024/6/27,shipped,"401 Perez Crescent
+South Kevin, WV 33009"
+431,805,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",299.4,PayPal,2023/4/1,delivered,"USNV Reeves
+FPO AP 26307"
+432,283,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",278.77,Net Banking,2025/2/24,delivered,"03772 Whitehead Branch
+Port Stephen, SD 91324"
+433,90,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,514.76,PayPal,2023/9/6,delivered,"85676 Victor Extension Suite 834
+North Codyport, RI 56619"
+434,228,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",618.13,Credit Card,2024/9/17,delivered,"173 Natalie Vista
+Wilsonberg, CO 26206"
+435,477,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Rice&PastaCookers,349.48,UPI,2024/1/2,delivered,"72729 Jennings Rue
+West Michaeltown, NC 63884"
+436,44,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|VacuumSealers,524.06,Credit Card,2024/2/5,delivered,"Unit 2634 Box 6287
+DPO AP 30553"
+437,368,Computers&Accessories|NetworkingDevices|Routers,538.74,UPI,2024/3/17,delivered,"175 Arthur Green Apt. 739
+South Julie, NY 72171"
+438,232,Computers&Accessories|ExternalDevices&DataStorage|PenDrives,33.79,Debit Card,2023/9/2,delivered,"5262 Shannon Drive
+Sheilaland, NH 03455"
+439,452,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",888.77,PayPal,2023/12/27,delivered,"005 Elliott Vista
+North Melissatown, CO 58961"
+440,22,"Electronics|HomeTheater,TV&Video|AVReceivers&Amplifiers",890.38,Credit Card,2025/2/22,delivered,"8097 David Causeway Suite 506
+South Margaret, MA 92183"
+441,690,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|ElectricHeaters",694.9,PayPal,2024/4/20,delivered,"9171 Zavala Lane Apt. 301
+Port Matthewton, FL 13787"
+442,800,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons",438.74,Credit Card,2024/2/2,shipped,"1607 Christine Rapid Apt. 645
+Smithton, AR 75127"
+443,545,Home&Kitchen|HomeStorage&Organization|LaundryOrganization|LaundryBaskets,330.1,UPI,2023/12/22,delivered,"235 James Falls
+Davisville, WA 17447"
+444,909,"Home&Kitchen|Heating,Cooling&AirQuality|Fans|CeilingFans",348.02,UPI,2024/1/6,delivered,"83572 Gutierrez Circle Suite 886
+Simpsonmouth, FL 49582"
+445,891,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,917.25,Credit Card,2024/3/12,delivered,"78074 Simpson Trail
+Wagnerchester, SC 03770"
+446,479,Electronics|Accessories|MemoryCards|MicroSD,77.44,Credit Card,2024/4/12,delivered,"163 Robin Streets
+Gainesfort, ME 82938"
+447,853,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|JuicerMixerGrinders,146.76,UPI,2024/1/16,delivered,"379 Brewer Club Suite 016
+Johnstontown, CA 61407"
+448,237,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|StorageWaterHeaters",502.17,Credit Card,2024/12/16,delivered,"6693 Clark Viaduct
+East Thomas, MT 54333"
+449,690,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",814.68,Debit Card,2025/3/8,pending,"420 May Shoal Apt. 269
+North Richard, MO 05670"
+450,460,"Electronics|Headphones,Earbuds&Accessories|Headphones|On-Ear",598.02,UPI,2023/5/7,delivered,"USS Mathews
+FPO AE 83104"
+451,3,Computers&Accessories|Accessories&Peripherals|TabletAccessories|Stands,660.12,Net Banking,2024/8/6,delivered,"588 Pierce Points
+West Brenda, DE 01471"
+452,854,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Vacuums&FloorCare|Vacuums|CanisterVacuums",442.65,Net Banking,2024/7/9,delivered,"8495 Hood Trail
+Alyssatown, ID 02894"
+453,3,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|JuicerMixerGrinders,373.83,Net Banking,2024/5/19,delivered,"390 Alison Key
+East Marioview, ID 51692"
+454,747,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,59,UPI,2023/5/23,delivered,"76461 Ryan Circle Suite 547
+Brianville, NH 94037"
+455,846,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",138.79,Debit Card,2023/8/23,cancelled,"104 Patel Ridges
+West Andrea, NC 91694"
+456,207,Computers&Accessories|Accessories&Peripherals|USBHubs,402.43,Net Banking,2024/8/17,delivered,"55047 Jones Brooks Apt. 749
+Walkerton, CA 68638"
+457,846,Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables,358.67,UPI,2024/12/30,delivered,"5211 Mercado Fields
+New Donaldtown, NE 58573"
+458,12,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",838.59,PayPal,2024/10/6,delivered,"5799 Cabrera Route Suite 729
+Smithbury, FM 04091"
+459,165,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|JuicerMixerGrinders,329.35,Credit Card,2023/10/6,delivered,"38150 Mendoza Cape
+East Alexis, MI 67029"
+460,838,"Electronics|Headphones,Earbuds&Accessories|Headphones|On-Ear",84.82,Credit Card,2024/2/16,delivered,"4774 Davis Island
+New Ruben, NJ 08503"
+461,871,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|PressureWashers,Steam&WindowCleaners",583.06,Debit Card,2023/6/24,shipped,"7721 Jonathan Ridges Suite 126
+Lake Victoria, FM 07150"
+462,27,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|CoolingPads,772.68,Net Banking,2023/10/1,delivered,"PSC 3444, Box 5916
+APO AA 70854"
+463,895,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|Lapdesks,357.88,Credit Card,2024/8/27,delivered,"4192 Lisa Crossroad
+East Andrewmouth, IN 73970"
+464,468,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|ElectricKettles,292.1,UPI,2024/1/22,delivered,"3751 Ann Manor
+Denisebury, HI 91496"
+465,385,Computers&Accessories|Accessories&Peripherals|LaptopAccessories|LaptopChargers&PowerSupplies,32.51,Net Banking,2023/5/13,delivered,"717 Murphy Terrace Apt. 633
+Stewartville, IL 20560"
+466,5,Computers&Accessories|Accessories&Peripherals|PCGamingPeripherals|GamingMice,401.13,Net Banking,2023/9/27,cancelled,"9767 Shepherd Harbor
+Lake Anita, NJ 91573"
+467,250,OfficeProducts|OfficeElectronics|Calculators|Basic,991.15,Net Banking,2024/6/30,delivered,"45181 David Station
+Ricardoside, TN 57087"
+468,386,Computers&Accessories|Accessories&Peripherals|Audio&VideoAccessories|PCMicrophones,447.79,PayPal,2024/3/8,delivered,"027 Peter Way
+North Chris, KY 33569"
+469,698,"Home&Kitchen|Heating,Cooling&AirQuality|RoomHeaters|FanHeaters",89.01,UPI,2024/8/22,delivered,"7114 Phillips Oval
+North Matthew, OK 29992"
+470,580,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Vacuums&FloorCare|Vacuums|CanisterVacuums",376.96,Debit Card,2024/12/17,cancelled,"1438 Mcgee Trail
+Lake Tylerberg, CA 19176"
+471,53,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|LintShavers",929.29,Net Banking,2024/1/20,delivered,"919 Toni Dale
+Owenberg, OR 59459"
+472,394,Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|Kettles&HotWaterDispensers|ElectricKettles,560.81,Debit Card,2023/11/3,delivered,"648 Booker Divide
+North Michael, SC 24451"
+473,413,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|InstantWaterHeaters",785.28,Net Banking,2024/6/22,delivered,"53147 Justin Oval Suite 410
+West Codychester, DE 86906"
+474,445,"Home&Kitchen|Heating,Cooling&AirQuality|WaterHeaters&Geysers|InstantWaterHeaters",824.06,Net Banking,2023/9/3,delivered,"38769 Evans Fork
+Zacharystad, AZ 18470"
+475,877,"Electronics|HomeTheater,TV&Video|Accessories|RemoteControls",217.54,Net Banking,2024/4/29,delivered,"7918 Karen Villages Suite 523
+East Susan, NM 90828"
+476,554,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|BasicMobiles,427.63,PayPal,2023/5/10,delivered,"950 Jones Creek
+South Georgestad, MO 97386"
+477,472,Home&Kitchen|Kitchen&HomeAppliances|WaterPurifiers&Accessories|WaterFilters&Purifiers,283.33,Credit Card,2024/9/27,cancelled,"21553 Lowe Summit Apt. 374
+Anthonystad, CA 90236"
+478,504,Electronics|Mobiles&Accessories|MobileAccessories|D茅cor,628.81,Credit Card,2024/12/9,delivered,"4747 Anita Rapids
+Justinville, NV 92641"
+479,23,"Home&Kitchen|Heating,Cooling&AirQuality|Fans|ExhaustFans",890.42,Net Banking,2024/8/7,delivered,"58218 Martin Forks Apt. 081
+Lake Christopher, AS 39842"
+480,572,"OfficeProducts|OfficePaperProducts|Paper|Stationery|Notebooks,WritingPads&Diaries|WireboundNotebooks",12.83,Debit Card,2024/3/27,delivered,"15005 Gardner Terrace
+Rachelview, NC 62692"
+481,585,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Keyboards",808.04,Net Banking,2024/1/21,shipped,"20525 Johnson Hill
+North Susanburgh, KS 15327"
+482,452,"Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice",389.5,PayPal,2024/1/28,delivered,"853 Morales Drives
+Adriennefurt, MA 83565"
+483,968,Electronics|Mobiles&Accessories|MobileAccessories|D茅cor,776.95,UPI,2024/5/6,shipped,"86715 Debbie Wells Apt. 744
+Lake Jeremy, VI 12629"
+484,748,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,446.3,UPI,2023/6/5,delivered,"24447 Kayla Ferry Suite 606
+Davisbury, CT 67815"
+485,535,"Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions",469.17,Debit Card,2023/10/18,cancelled,"6855 Kelly Stravenue Apt. 335
+Bruceview, MA 63796"
+486,898,"Home&Kitchen|Kitchen&HomeAppliances|Coffee,Tea&Espresso|CoffeePresses",567.95,Credit Card,2023/10/16,delivered,"5003 Amanda Crest Suite 512
+Dariusberg, MT 49903"
+487,54,Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones,604.88,PayPal,2023/7/4,delivered,"165 Kelley Prairie
+Patrickside, OH 01971"
+488,931,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Vacuums&FloorCare|Vacuums|RoboticVacuums",116.2,Net Banking,2024/4/27,delivered,"5657 Richmond Valleys Apt. 751
+Armstrongmouth, AS 74189"
+489,118,Home&Kitchen|HomeStorage&Organization|LaundryOrganization|LaundryBaskets,948.74,PayPal,2024/12/27,delivered,"34492 Knox Ferry Suite 080
+Santosview, ID 10770"
+490,55,"Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Vacuums&FloorCare|Vacuums|HandheldVacuums",976.98,Debit Card,2024/4/9,delivered,"20814 Michael Walk
+Frenchstad, SD 55812"

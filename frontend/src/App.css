@@ -1,0 +1,483 @@
+/*Page Style*/
+/*The page wrapper guarantees full viewport height and creates breathing room around the app shell. */
+.page {
+  min-height: 100vh;
+  display: flex;
+  padding: 28px;
+  background: #f6f7fb;
+}
+
+/* The shell is the "app frame" that contains both sidebar and main panel.
+   I used a two-column CSS grid (fixed sidebar + flexible content) to keep
+   alignment stable and avoid layout shift when switching tabs. */
+.shell {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 16px;
+  background: linear-gradient(
+    135deg,
+    #dbeafe 0%,
+    #e9d5ff 55%,
+    #f5d0fe 100%
+  );
+}
+
+.sidebar {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 16px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.mainPanel {
+  background: #ffffff;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.05);
+}
+
+/* =========================================================
+   Branding / Sidebar Header
+   ========================================================= */
+.brand {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 8px;
+  border-radius: 12px;
+}
+
+.logo {
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #fbcfe8, #f472b6);
+}
+
+.brandTitle { font-weight: 700; }
+.brandSub { font-size: 12px; color: #6b7280; margin-top: 2px; }
+
+/* =========================================================
+   Sidebar Navigation / Active State
+   ========================================================= */
+
+/* Grid + gap is an easy way to create consistent vertical rhythm for nav items. */
+.nav { margin-top: 14px; display: grid; gap: 6px; }
+
+.navItem {
+  text-align: left;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background: transparent;
+  cursor: pointer;
+  color: #111827;
+}
+.navItem:hover { background: #f3f4f6; }
+.navItem.active {
+  background: #111827;
+  color: #ffffff;
+}
+
+.content {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 22px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.headerRow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+
+.title { margin: 0; font-size: 22px; }
+.subtitle { margin: 6px 0 0; color: #6b7280; font-size: 13px; }
+
+/* =========================================================
+   Buttons / Interaction States
+   ========================================================= */
+
+.primaryBtn {
+  border: 1px solid #111827;
+  background: #111827;
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.primaryBtn:hover { opacity: 0.92; }
+.primaryBtn:disabled { opacity: 0.6; cursor: not-allowed; }
+
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 16px;
+  background: #ffffff;
+}
+
+.cardTitle { font-weight: 700; margin-bottom: 12px; }
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 14px;
+}
+
+.field { display: grid; gap: 6px; }
+.label { font-size: 12px; color: #6b7280; }
+
+input, select {
+  width: 100%;
+  padding: 10px 10px;
+  border-radius: 10px;
+  border: 1px solid #d1d5db;
+  outline: none;
+  background: #fff;
+}
+input:focus, select:focus {
+  border-color: #111827;
+  box-shadow: 0 0 0 3px rgba(17,24,39,0.08);
+}
+
+.readonly {
+  padding: 10px 10px;
+  border-radius: 10px;
+  border: 1px dashed #d1d5db;
+  color: #374151;
+  background: #fafafa;
+}
+
+.statusRow { margin-top: 12px; }
+.saved { color: #047857; font-weight: 600; }
+.hint { color: #6b7280; font-size: 12px; }
+
+@media (max-width: 860px) {
+  .shell { grid-template-columns: 1fr; }
+  .grid { grid-template-columns: 1fr; }
+}
+
+.cardHeader {
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:12px;
+  margin-bottom: 12px;
+}
+
+.cardHint {
+  font-size: 12px;
+  color:#6b7280;
+  margin-top: 4px;
+}
+
+.pill {
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid #e5e7eb;
+  background: #f9fafb;
+  color:#111827;
+}
+.pill.subtle {
+  background:#fff;
+  color:#6b7280;
+}
+
+.twoCol {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.kv .value { font-weight: 600; margin-top: 4px; }
+
+.stack { display:grid; gap: 12px; }
+
+.row {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:16px;
+  padding: 12px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: #fff;
+}
+.rowTitle { font-weight: 600; }
+.rowHint { font-size: 12px; color:#6b7280; margin-top: 4px; }
+
+.compactSelect {
+  width: 260px;
+}
+
+.card.danger {
+  border-color: #fecaca;
+  background: #fff5f5;
+}
+.dangerBtn {
+  border: 1px solid #dc2626;
+  background: #dc2626;
+  color: white;
+  padding: 10px 12px;
+  border-radius: 10px;
+  cursor:pointer;
+}
+.dangerBtn:hover { opacity: 0.92; }
+
+/* Toggle switch -- Preferences */
+/* Custom switch component implemented using a hidden checkbox + styled slider,
+   which is a common lightweight pattern without external UI libraries. */
+.switch { position: relative; display: inline-block; width: 46px; height: 26px; }
+.switch input { display:none; }
+.slider {
+  position:absolute; cursor:pointer; top:0; left:0; right:0; bottom:0;
+  background:#e5e7eb; border-radius:999px; transition: 0.2s;
+}
+.slider:before {
+  content:""; position:absolute; height: 20px; width: 20px; left:3px; top:3px;
+  background:white; border-radius:999px; transition: 0.2s;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+}
+.switch input:checked + .slider { background:#111827; }
+.switch input:checked + .slider:before { transform: translateX(20px); }
+
+@media (max-width: 860px) {
+  .twoCol { grid-template-columns: 1fr; }
+  .compactSelect { width: 100%; }
+}
+
+.tableWrap {
+  overflow: auto;
+  border-radius: 12px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.table th,
+.table td {
+  padding: 12px 12px;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.06);
+  text-align: left;
+  vertical-align: top;
+}
+
+.table th {
+  font-size: 12px;
+  color: rgba(15, 23, 42, 0.65);
+  font-weight: 600;
+  background: rgba(15, 23, 42, 0.02);
+}
+
+.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+}
+
+.muted {
+  color: rgba(15, 23, 42, 0.6);
+}
+
+.hint {
+  color: rgba(15, 23, 42, 0.55);
+  font-size: 12px;
+}
+
+/* Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+.badge.good {
+  background: rgba(22, 163, 74, 0.1);
+  color: rgb(22, 163, 74);
+  border-color: rgba(22, 163, 74, 0.22);
+}
+
+.badge.info {
+  background: rgba(59, 130, 246, 0.1);
+  color: rgb(37, 99, 235);
+  border-color: rgba(59, 130, 246, 0.22);
+}
+
+.badge.warn {
+  background: rgba(245, 158, 11, 0.12);
+  color: rgb(217, 119, 6);
+  border-color: rgba(245, 158, 11, 0.22);
+}
+
+.badge.bad {
+  background: rgba(239, 68, 68, 0.1);
+  color: rgb(220, 38, 38);
+  border-color: rgba(239, 68, 68, 0.22);
+}
+
+.badge.subtle {
+  background: rgba(15, 23, 42, 0.06);
+  color: rgba(15, 23, 42, 0.7);
+  border-color: rgba(15, 23, 42, 0.1);
+}
+
+/* Stats row (Orders summary pills) */
+.statsRow {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.statPill {
+  padding: 12px;
+  border-radius: 14px;
+  background: rgba(15, 23, 42, 0.03);
+  border: 1px solid rgba(15, 23, 42, 0.07);
+}
+
+.statLabel {
+  font-size: 12px;
+  color: rgba(15, 23, 42, 0.6);
+  margin-bottom: 6px;
+}
+
+.statValue {
+  font-size: 14px;
+  font-weight: 700;
+  color: rgba(15, 23, 42, 0.9);
+}
+
+/* Tracking timeline */
+.timeline {
+  display: grid;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.timelineItem {
+  display: grid;
+  grid-template-columns: 14px 1fr;
+  gap: 12px;
+}
+
+.timelineDot {
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  margin-top: 18px;
+  background: rgba(15, 23, 42, 0.25);
+}
+
+.timelineBody {
+  padding: 14px;
+  border-radius: 16px;
+  border: 1px solid rgba(15, 23, 42, 0.07);
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.timelineTop {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.timelineTitle {
+  font-weight: 700;
+  color: rgba(15, 23, 42, 0.92);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.timelineGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .statsRow {
+    grid-template-columns: 1fr;
+  }
+  .timelineGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Header toolbar */
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.toolbarGroup {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  border: 1px solid rgba(15, 23, 42, 0.10);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.toolbarLabel {
+  font-size: 12px;
+  color: rgba(15, 23, 42, 0.6);
+  font-weight: 600;
+}
+
+.select {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 700;
+  color: rgba(15, 23, 42, 0.9);
+  padding: 2px 4px;
+}
+
+/* Make header align cleaner on small screens */
+@media (max-width: 900px) {
+  .headerRow {
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .toolbar {
+    width: 100%;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #e0f2fe 0%, #ede9fe 45%, #fae8ff 100%);
+}
+
+
+
+

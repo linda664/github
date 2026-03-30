@@ -1,0 +1,103 @@
+/*global design*/
+:root {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  color: #111827;
+  background: #f6f7fb;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; }
+
+input, select, button {
+  font: inherit;
+}
+
+/* ===== SaaS Header toolbar ===== */
+.toolbar{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+
+.toolbarGroup{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  padding:8px 12px;
+  border-radius:12px;
+  border: 1px solid rgba(15,23,42,0.10);
+  background: rgba(255,255,255,0.92);
+  box-shadow: 0 6px 18px rgba(15,23,42,0.06);
+}
+
+.toolbarLabel{
+  font-size:12px;
+  font-weight:600;
+  color: rgba(15,23,42,0.55);
+}
+
+.select{
+  appearance: none;
+  border:none;
+  outline:none;
+  background: transparent;
+  font-size:14px;
+  font-weight:700;
+  color: rgba(15,23,42,0.88);
+  padding: 2px 18px 2px 4px; 
+  cursor:pointer;
+}
+
+.toolbarGroup{
+  position: relative;
+}
+.toolbarGroup::after{
+  content:"▾";
+  position:absolute;
+  right:10px;
+  top:50%;
+  transform: translateY(-50%);
+  font-size:12px;
+  color: rgba(15,23,42,0.45);
+  pointer-events:none;
+}
+
+.primaryBtn{
+  border-radius: 12px;
+  border: 1px solid rgba(59,130,246,0.25);
+  background: rgba(59,130,246,0.92);
+  color: white;
+  box-shadow: 0 10px 20px rgba(59,130,246,0.18);
+}
+
+.primaryBtn:hover{
+  filter: brightness(0.98);
+}
+
+.primaryBtn:disabled{
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.sidebarWithRobot {
+  position: relative;
+  overflow: hidden;
+}
+
+.sidebarInner {
+  position: relative;
+  z-index: 2; /*tab is always on the top*/
+}
+
+.robotMark {
+  position: absolute;
+  left: 9px;
+  bottom: 14px;
+  width: 260px;      /* picture size */
+  height: auto;
+  opacity: 0.58;    /* transparence */  
+  pointer-events: none;
+  user-select: none;
+  z-index: 1;       /* pic is under tabs */
+}
+

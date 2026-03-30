@@ -1,0 +1,16 @@
+cd "C:\Verita AI\frontend"
+npm run dev
+
+the templates will automatically generate the src/App.css; src/index.css.
+dev is a command that will run vite; vite(a plugin of React) will run the local server
+package.json:
+"scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  }
+
+http://127.0.0.1:5000/api/user: backend(Flask) API interface address(React get data from here)
+
+python -c "import sqlite3; c=sqlite3.connect('database.db'); print(c.execute('select user_id,name,email,country from users limit 5').fetchall())"
